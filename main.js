@@ -1,7 +1,7 @@
 const Social_Media_Links = {
   github: 'andrewdvdotjs',
   youtube: 'jakelinygracielly',
-  instagram: 'jakeliny.gracielly',
+  instagram: 'andre.dv123',
   facebook: 'maykbrito',
   twitter: 'jakelinytec'
 }
