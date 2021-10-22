@@ -9,6 +9,7 @@ body {
   height: 100%;
   font-family: 'Roboto', sans-serif;
   -webkit-font-smoothing: antialiased;
+  background-image: linear-gradient(to bottom, black, purple, rgb(0, 4, 255));
 }
 body {
   display: grid;
