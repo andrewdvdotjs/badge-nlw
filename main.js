@@ -2,8 +2,8 @@ const Social_Media_Links = {
   github: 'andrewdvdotjs',
   youtube: 'jakelinygracielly',
   instagram: 'andre.dv123',
-  facebook: 'maykbrito',
-  twitter: 'jakelinytec'
+  facebook: 'andrew.vieira.9693',
+  twitter: 'drew44360652'
 }
 
 function Change_Social_Media_Links() {
